@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/tg-web/static/js/main.f3c9cbe1.js",
+    "static/js/787.fade2e9e.chunk.js": "/tg-web/static/js/787.fade2e9e.chunk.js",
+    "index.html": "/tg-web/index.html",
+    "main.f3c9cbe1.js.map": "/tg-web/static/js/main.f3c9cbe1.js.map",
+    "787.fade2e9e.chunk.js.map": "/tg-web/static/js/787.fade2e9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f3c9cbe1.js"
+  ]
+}
