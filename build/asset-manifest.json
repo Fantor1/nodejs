@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/Fantor1/tg-web.git/static/js/main.127b683e.js",
+    "static/js/787.fade2e9e.chunk.js": "/Fantor1/tg-web.git/static/js/787.fade2e9e.chunk.js",
+    "index.html": "/Fantor1/tg-web.git/index.html",
+    "main.127b683e.js.map": "/Fantor1/tg-web.git/static/js/main.127b683e.js.map",
+    "787.fade2e9e.chunk.js.map": "/Fantor1/tg-web.git/static/js/787.fade2e9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.127b683e.js"
+  ]
+}
